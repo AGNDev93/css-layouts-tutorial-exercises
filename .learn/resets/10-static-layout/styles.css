@@ -27,19 +27,12 @@ section {
 	margin-bottom: 10px;
 	border-radius: 3px;
 }
+
 header {
 	padding: 10px 0;
 }
-nav {
-	width: 20%;
-}
-section {
-	width: 80%;
-}
+
 nav,
 section {
 	padding: 100px 0;
-}
-.secondWrapper {
-	display: flex;
 }
